@@ -1,4 +1,4 @@
-# Nibbāna – The Mind Stilled: Sermon XVIII
+# Nibbāna – The Mind Stilled: Sermon 18
 
 **By Bhikkhu K. Ñāṇananda**
 
@@ -12,41 +12,35 @@
 
 ## The Teaching
 
-### The Arahant's Vision of Cessation
+### Cessation and the Three Deliverances
 
-The arahant sees the cessation of existence with a deeply penetrative vision of the void that may be compared to a gaze that knows no horizon. This is the realization experienced in arahattaphalasamādhi — the concentration of the fruit of arahantship. The non-manifestative consciousness (*viññāṇaṃ anidassanaṃ*), endless and lustrous on all sides, is an explicit reference to this same experience.
+The Arahant ranges in his triple pasture of three deliverances — *animitta vimokkha* (the signless), *appaṇihita vimokkha* (the undirected), and *suññata vimokkha* (the void). These are not three separate liberations but three aspects of a single release: when the mind stops picking out signs, it stops directing itself with craving; when it stops directing itself, it sees emptiness.
 
-### The Three Deliverances
+### The Lotus Leaf and Water
 
-The arahant ranges in his triple pasture of three deliverances:
+The lotus leaf rests on the water, yet not a single drop wets it. Water rolls off instantly, leaving the leaf dry and unstained. In the same way, the Arahant's mind touches sense-objects — forms, sounds, smells, tastes, touches, thoughts — without being stained by them. The contact occurs, but no residue of craving, aversion, or delusion adheres. The worldling, by contrast, is soaked through: every contact leaves a mark, a trace, a story. The Arahant is the lotus leaf — in the world, but not wetted by it.
 
-- **Animitta vimokkha** — the signless deliverance, whereby the mind does not grasp at any sign (*nimitta*) from experience to construct a world.
-- **Appaṇihita vimokkha** — the undirected deliverance, whereby the mind does not incline towards any object with craving or desire.
-- **Suññata vimokkha** — the void deliverance, whereby all things are seen as empty of self.
+### The Raft Simile
 
-Through these three, the arahant gets free from the latency to perception, transcends the duality of form and formless, and crosses over this ocean of existence unhindered by Māra. These are not three separate liberations but three aspects of a single release.
+> *Kullūpamaṃ vo, bhikkhave, dhammaṃ desessāmi nittharaṇatthāya, no gahaṇatthāya.*
 
-### The Itivuttaka Verses on Cessation
+The Buddha taught that the Dhamma is like a raft built for crossing over to the farther shore, not for carrying on one's head after arriving. A man builds a raft, crosses a dangerous flood, reaches safety. What would he do? Would he hoist the raft onto his head and carry it everywhere? That would be a burden, not a benefit. He would leave it on the shore, grateful but no longer attached.
 
-The Itivuttaka presents three significant verses that illuminate this teaching:
+Even good teachings must be abandoned, the Buddha said — let alone bad ones. The three deliverances are not possessions to be accumulated. They are the crossing itself. Once crossed, one does not carry the raft. The Arahant does not cling to "my attainment of signlessness" or "my realization of emptiness." Those too have been relinquished.
 
-> *Ye ca rūpūpagā sattā, ye ca arūpaṭṭhāyino, nirodhaṃ appajānantā, āgantāro punabbhavaṃ.*
->
-> "Those beings that go to realms of form, and those who are settled in formless realms, not understanding the fact of cessation, come back again and again to existence."
+### The Gem Parable
 
-> *Ye ca rūpe pariññāya, arūpesu asaṇṭhitā, nirodhe ye vimuccanti, te janā maccuhāyino.*
->
-> "Those who, having comprehended realms of form, do not settle in formless realms, are released in the experience of cessation — it is they that are the dispellers of death."
+A man walking along a path picks up a beautiful gem. He admires it, polishes it, guards it. He thinks, "This is mine. I own this gem." But the gem was never his — it was lying on the path, belonging to no one. His sense of ownership was an imagining from the start.
 
-> *Kāyena amataṃ dhātuṃ, phusayitvā nirūpadhiṃ, upadhipaṭinissaggaṃ, sacchikatvā anāsavo, deseti sammāsambuddho, asokaṃ virajaṃ padaṃ.*
->
-> "Having touched with the body the deathless element, which is asset-less, and realized the relinquishment of assets, being influx-free, the perfectly enlightened one proclaims the sorrowless, taintless state."
+The Arahant does not imagine "I have attained," "I have realized," "I have become an Arahant." Why? Because there is no attainer. The deliverance was never a thing to be possessed. It was always there, like the gem on the path, waiting only to be seen. The mind that attains is the same mind that imagines attainment — when both are seen through, the concept of a possessor of liberation collapses.
 
-### Form and Formless Are Both Conditioned
+### The Snake's Worn-Out Skin
 
-The first verse is clear: even the refined existence of the formless realms is conditioned. Both realms of form and formless realms are realms of existence — *bhava* — and those who do not understand cessation return to renewed existence. The second verse shows that one must comprehend form *and* not settle in formlessness. Even the formless attainment is not the goal; only release in cessation is final.
+> *Nāgo kañcana pūtilataṃ, kāyaṃ niruhiūna nissajja, pariggahe satītā, saha ca bhavena dhammavantā.*
 
-The deathless element (*amata dhātu*) is touched with the body — that is, realized in this very life, in this very body. It is *nirūpadhi* — without assets, without any substrate of clinging. The arahant, having realized this, proclaims the sorrowless state.
+A snake does not look back at its shed skin with longing or pride. The old skin is dry, dead, discarded. The snake moves on, fresh and free, without a backward glance. The Arahant abandons the five aggregates — form, feeling, perception, formations, consciousness — in exactly this way. He does not hate them, does not reject them, but he no longer identifies with them. They are like an old skin that has been worn out and naturally shed.
+
+The worldling clings to the aggregates as "me" and "mine" — as if the snake were to carry its shed skin around, desperate not to lose it. But the Arahant, having seen the aggregates as impermanent, suffering, and not-self, lets them fall away without regret. The skin is gone; the snake is free.
 
 ---
 
@@ -60,27 +54,37 @@ The deathless element (*amata dhātu*) is touched with the body — that is, rea
 | Appaṇihita vimokkha | Undirected deliverance | Freedom from craving's direction |
 | Suññata vimokkha | Void deliverance | Seeing all as empty of self |
 
-These are not three separate destinations. When the mind stops picking out signs, it stops directing itself with craving. When it stops directing itself with craving, it sees emptiness. The three are one liberation seen from different angles.
+These are three aspects of one liberation. The lotus leaf is unstained; the raft is left behind; the gem is not owned; the skin is shed.
 
-### Amata Dhātu — The Deathless Element
+### The Raft Teaching
 
-Not a place one goes after death. It is "touched with the body" — realized here and now, in this life. It is the cessation of the three realms (kāma, rūpa, arūpa) through direct knowledge. The deathless is not a heavenly realm. It is the stilling of preparations.
+Even the Dhamma must be relinquished. The Arahant does not carry his realization as a burden. The crossing is the goal, not the raft.
 
-### Form and Formless Are Both "Existence"
+### The Gem and the Attainer
 
-Even the formless attainments (*arūpa jhānas*) are conditioned. They are still *bhava* — existence. Only the cessation of existence is release. This is why the Buddha said those who settle in formless realms still come back to renewed existence.
+The sense of "I have attained" is the last subtle snare. The Arahant sees that there was never an attainer — only the path, only the gem, lying there all along.
+
+### The Shed Skin
+
+The aggregates are like a snake's old skin — perfectly natural to shed, unnatural to carry. The Arahant does not reject the body or mind; he simply stops identifying with them.
 
 ---
 
 ## Meditations
 
-### The Gaze That Knows No Horizon
+### The Lotus Leaf
 
-Sit and close your eyes. Look at the space of the mind — the field of awareness. Notice how it feels like looking into an open sky. The mind tends to find a sign — a thought, a sensation, a visual — and fix on it.
+Bring to mind a sense-object you normally react to — a pleasant memory, an irritating sound. Imagine yourself as a lotus leaf: the object touches you, but does not wet you. Feel the contact without the stain.
 
-Now practice letting go of signs. Don't fix on anything. Let the mind be open, like a gaze that has no horizon. If a sign appears, don't grasp it. If craving inclines towards something, don't follow it. Rest in the emptiness of not-picking-out.
+### The Raft
 
-**The logic this reveals:** Liberation is not gaining something new. It is the ceasing of grasping at signs, the stilling of direction towards objects, the seeing of the void already present.
+Consider a teaching you cling to — a spiritual identity, a view about practice. Imagine crossing a river on a raft and reaching the other side. Feel the relief of leaving the raft behind. Can you leave even this teaching on the shore?
+
+### The Shed Skin
+
+Sit and notice your body, your feelings, your thoughts — the five aggregates. Imagine them as a snake's skin you have just shed. Feel the freshness of the new, unencumbered moment. Do not look back.
+
+**The logic this reveals:** Cessation is not a goal to possess but a relinquishment to realize. The lotus was never wet, the raft was always to be left, the gem was never owned, and the skin was already dead.
 
 ---
 

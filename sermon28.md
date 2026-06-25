@@ -12,69 +12,67 @@
 
 ## The Teaching
 
-### Viññāṇaṃ Anidassanaṃ — The Elusive Consciousness
+### Viññāṇaṃ Anidassanaṃ — Consciousness Without a Sign
 
-We have seen throughout these sermons how consciousness arises dependent on name-and-form, nāma-rūpa. This is the Buddha's consistent teaching: "viññāṇaṃ nāma-rūpasmiṃ patiṭṭhitaṃ" — consciousness is established on name-and-form. But what happens when that support is removed? What is the nature of consciousness when it no longer lands upon any object?
+The worldling's world is like six narrow beams of light — the six senses — piercing through a solidly thick curtain of darkness that is delusion. Each sense offers a thin channel of awareness: a sliver of sight, a slit of sound, a crevice of touch. The rest is darkness. But the non-manifestative consciousness of the Arahant is like the sun rising. When the sun is up, the narrow beams are completely superseded; the darkness dissolves. The beams are no longer needed. The worldling, confined to those six shafts of light, cannot conceive of the broad day that renders them irrelevant. Yet that day is not a seventh beam — it is the cessation of the need for beams altogether.
 
-The answer takes us to one of the most profound and most misunderstood verses in the entire canon:
+### No Screen for the Cinema
 
-> *Viññāṇaṃ anidassanaṃ, anantaṃ sabbato pabhaṃ*
-> "Consciousness which is non-manifestative, endless, lustrous on all sides."
+In an earlier sermon we spoke of the cinema hall going from dark to light — the awakening. Now consider: in the non-manifestative consciousness, there is no screen at all for experience to project onto. Consciousness without a standing-place is like a cinema projector running in an empty hall with the lights on. The images still arise — forms, sounds, smells, tastes, touches, thoughts — but there is no surface upon which they can take hold. They come and they go, leaving no stain, no impression, no story. This is *viññāṇaṃ anidassanaṃ* — consciousness that gives no sign, leaves no trace.
 
-This verse, from the Kevaddhasutta of the Dīgha Nikāya, has been the subject of endless controversy. Some have taken it as evidence of a transcendental consciousness, a metaphysical ground of being, an eternal Self that survives the destruction of the aggregates. Nothing could be further from the Buddha's intent.
+### Water Not Staining a Lotus Leaf
 
-### The Danger of Misreading Anidassana
+Consciousness when it no longer lands on any object is like water on a lotus leaf — it rolls off without staining, without adhering. The leaf remains in contact with the water for a moment, but the water cannot soak in. So too the Arahant's consciousness: it contacts sense-objects, but it does not land upon them, does not settle into them, does not take them as a support. The contact is clean, momentary, and utterly free.
 
-Let us look carefully at the word "anidassanaṃ." It means "non-manifestative" — that which cannot be pointed out, which gives no sign or indication. In the suttas, consciousness is described as manifesting through its object. Eye-consciousness arises in dependence on the eye and forms. Ear-consciousness arises in dependence on the ear and sounds. Each consciousness is known by its sphere of operation.
+### Sun, Moon, and Stars Fading
 
-But what of consciousness that no longer lands on any object? What of viññāṇa that is no longer established on nāma-rūpa? It is anidassana — it cannot be pointed out, it gives no sign. It is ananta — endless, without limit, because it no longer measures itself against any object. It is sabbato pabhaṃ — lustrous on all sides, because the darkness of ignorance has been dispelled.
+Before the superior radiance of wisdom, the lesser lights of sensory experience fade. Not because they are destroyed — the sun does not destroy the moon and stars — but because a greater light has arisen. When wisdom dawns, the senses no longer dominate. The worldling lives as though in a night sky lit only by stars; the Arahant lives in the full light of day. The stars are still there, but who notices them when the sun is shining?
 
-This is not a "transcendental ego" or an "absolute consciousness." It is simply the nature of consciousness when it has been unmoored from clinging. It is like the flame that goes out when the fuel is exhausted — not destroyed, but no longer manifesting as a flame.
+### The Kevaddhasutta and the Controversy
+
+The verse from the Kevaddhasutta — *viññāṇaṃ anidassanaṃ, anantaṃ sabbato pabhaṃ* — has been taken by some as evidence of a transcendental consciousness, an eternal Self. Nothing could be further from the Buddha's intent. The verse describes not a super-consciousness but consciousness that has ceased to land on any object. It is *anidassana* — non-manifestative, giving no sign. It is *ananta* — endless, not because it is eternal but because it is without limit. It is *sabbato pabhaṃ* — lustrous on all sides, because the darkness of ignorance has been dispelled. This is not a thing; it is freedom.
 
 ### Appatiṭṭhita Viññāṇa — Unestablished Consciousness
 
-The Buddha speaks of "appatiṭṭhita viññāṇa" — consciousness that does not become established. In the connected discourses, we read that a bhikkhu whose mind is liberated does not take up standing anywhere:
+The Arahant's consciousness is *appatiṭṭhita* — unestablished, not standing anywhere. It no longer seeks a foothold in name-and-form. In the Yamakasutta, the Venerable Sāriputta explains that the Arahant's consciousness does not land on any element — earth, water, fire, air, space, or consciousness itself. It is like a beam of light that finds no surface to illuminate — it simply ceases, and the question of where it goes is a category mistake.
 
-> *Na hevaṃ vimuttaṃ cittaṃ na kvacini limpati.*
-> "The mind thus released does not cling to anything whatsoever."
+### Nāma-Rūpa as the Supporting Condition
 
-When consciousness no longer lands on name-and-form, it is like a water droplet on a lotus leaf — it does not adhere. This is the freedom that the Arahant enjoys. The Arahant still sees forms, hears sounds, smells odors — but consciousness does not settle there. It arises and ceases without leaving a trace of craving.
-
-### Nāma-Rūpa as Consciousness's Support
-
-If consciousness depends on name-and-form for its arising, what happens to consciousness at the death of the Arahant? This question, which so troubled the Buddha's disciples, is answered by the Buddha with a simile. When a fire goes out because its fuel is exhausted, to which direction does it go — east, west, north, or south? The answer, of course, is that the question itself is wrongly framed. The fire has simply ceased, dependent on its cessation condition.
-
-So too with consciousness. When the support of name-and-form is no longer grasped at, consciousness no longer lands. It is like a beam of light that finds no surface to illuminate — it simply ceases, and the question of where it goes is a category mistake.
+If consciousness depends on name-and-form for its arising, what happens at the death of the Arahant? The Buddha answers with a simile. When a fire goes out because its fuel is exhausted, to which direction does it go? The question is wrongly framed. The fire has simply ceased. So too with consciousness. When the support of name-and-form is no longer grasped, consciousness no longer lands. The six narrow beams have given way to the sun. There is no beam to go out; there is only the light that was always there when the darkness of delusion is dispelled.
 
 ---
 
 ## Plain-English Notes
 
 ### Viññāṇa
-Consciousness — not a "thing" or a "self," but an activity of cognizing dependent on conditions. Each moment of consciousness arises and ceases, taking an object.
+Consciousness — not a thing or a self, but an activity of cognizing dependent on conditions. Each moment arises and ceases, taking an object.
 
 ### Anidassana
-Non-manifestative — that which cannot be pointed out or indicated. Consciousness in the liberated state no longer manifests through any object.
+Non-manifestative — that which cannot be pointed out or indicated. Consciousness in the liberated state no longer manifests through any sense-object as a standing-place.
 
 ### Appatiṭṭhita
-Unestablished, not standing anywhere. The freedom of the Arahant's mind — it does not land on or cling to any experience.
+Unestablished — not standing anywhere. The freedom of the Arahant's mind: it contacts objects but does not settle in them.
 
-### Nāma-Rūpa
-Name-and-form — the support of consciousness. Name is the mental factors (feeling, perception, intention, contact, attention). Form is the four great elements and form derived from them.
+### Pabhā / Prabhā
+Lustre, radiance — the awakened mind shines not by its own nature but by the absence of the darkness of ignorance.
 
 ---
 
 ## Meditations
 
-### Contemplating the Dependence of Consciousness
+### The Six Beams Contemplation
 
-Sit in meditation and observe the arising of consciousness with each sense door. See a visual object — note how eye-consciousness arises. Hear a sound — note how ear-consciousness arises. See that each moment of consciousness is dependent on its specific conditions. What would be the nature of consciousness without any such support?
+Sit quietly and observe how your awareness moves through six narrow channels: seeing, hearing, smelling, tasting, touching, thinking. Notice how each sense-door offers only a partial view. Now imagine the sun rising — what would it be like to have awareness without any of these channels? Not a sixth sense or a seventh sense, but awareness free from the need for any sense-door.
 
-### The Lotus Leaf Simile
+### The Lotus Leaf Practice
 
-Contemplate the nature of a water droplet on a lotus leaf. It rests on the leaf but does not adhere. In daily activities, practice being like this water droplet — present, aware, but not clinging. Let sensations, thoughts, and perceptions arise and cease without leaving a trace of grasping.
+In daily activities, practice being like a lotus leaf. Let each experience — pleasant or unpleasant — touch your awareness and then roll off. Do not let it stain. Do not let it soak in. Notice that the leaf does not push the water away; the water simply has no place to adhere.
 
-**The logic this reveals:** Consciousness without clinging is not annihilated but unestablished — like a flame freed from fuel, it no longer manifests as "I" or "mine."
+### Contemplating the Greater Light
+
+Reflect on a time when a greater understanding dissolved a lesser concern. When wisdom arises, the small obsessions of the senses naturally fade. They are not suppressed; they are simply outshone.
+
+**The logic this reveals:** Consciousness without clinging is not annihilated but unestablished — like the sun risen, the six narrow beams are no longer needed; the light is everywhere and nowhere at once.
 
 ---
 

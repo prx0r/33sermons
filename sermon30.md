@@ -12,67 +12,73 @@
 
 ## The Teaching
 
-### The World Supported by a Duality
+### Kaccānagottasutta — The World Supported by a Duality
 
-We return now to the Kaccāyanagottasutta, which we first encountered in sermon 4, but this time with the benefit of all that has gone between. The Buddha begins with a statement that is at once simple and devastating:
+We return to the Kaccāyanagottasutta, first encountered in sermon 4. The Buddha's words are worth citing again in full:
 
-> "By and large, Kaccāyana, this world is supported by a duality: existence and non-existence."
+> "By and large, Kaccāyana, this world is supported by a duality: existence and non-existence. But when one sees with right wisdom the arising of the world as it really is, the notion of non-existence does not arise. When one sees with right wisdom the cessation of the world as it really is, the notion of existence does not arise. The Tathāgata teaches the Dhamma by the middle: dependent arising."
 
-The world — the world of experience, the world of the five aggregates — leans upon this duality as a building leans upon its pillars. Existence (atthita) on one side, non-existence (natthita) on the other. Between these two extremes, the mind oscillates, unable to find a footing.
+The world — the world of the five aggregates, the world of experience — leans upon the duality of existence and non-existence. Seeing arising removes non-existence; seeing cessation removes existence. The middle is not a compromise. It is dependent arising itself — the direct seeing that things come to be and cease to be according to conditions, without a permanent substance or self.
 
-### Neither Existence Nor Non-Existence
+### Two Extremes Like Two Shores
 
-The Buddha does not teach a third position halfway between existence and non-existence. The middle way is not a compromise — it is not "existence lite." Rather, it is a direct seeing that dissolves the duality itself.
+The river of suffering flows between the shore of eternalism and the shore of annihilationism. On one shore stand those who say "all exists eternally" — the self is permanent, the world is real, the soul survives. On the other shore stand those who say "all is annihilated" — there is no continuity, nothing survives death, all is虚无.
 
-When one sees with right wisdom the arising of the world as it really is — "yathābhūtaṃ sammappaññāya passati" — the notion of non-existence does not arise. Because one sees that things arise dependent on conditions. They are not non-existent; they arise. But when one sees with right wisdom the passing away of the world as it really is, the notion of existence does not arise. Because one sees that things cease. They are not eternally existent; they cease.
+But the middle way is not a path on either shore. It is not a third shore in the middle of the river. The middle way is the river itself — the flow of dependent arising — flowing to the sea of Nibbāna. One does not stand on the river; one flows with it. The river is paṭicca samuppāda, and its destination is the cessation of all suffering.
 
-So the middle way is not a metaphysical position but a way of seeing. It is the vision of dependent arising itself: "imasmiṃ sati idaṃ hoti" — when this is, that is. This is the middle way.
+### Tightrope Walker
 
-### Dependent Arising as the Middle
+The middle way is like a tightrope. The walker does not lean to the left — that is eternalism, the view that existence is permanent. The walker does not lean to the right — that is annihilationism, the view that existence is utterly cut off. The balance is not a compromise; it is a direct seeing that makes both extremes irrelevant. When one sees dependent arising, the question of existence and non-existence simply does not arise. The tightrope walker does not ask "is this rope solid or illusory?" — he walks.
 
-The Buddha says: "Taṃ kissa hetu? Evaṃ hetaṃ, Kaccāyana, sammādiṭṭhi hoti" — Why is this? Because, Kaccāyana, this is right view. Right view, sammādiṭṭhi, is not a view about existence or non-existence. It is the understanding of dependent arising. It is seeing that things come to be and cease to be according to conditions, without a permanent substance or self.
+### Film Show of Existence
 
-This is why the Buddha's teaching is called the middle way. Not because it splits the difference, but because it transcends the framework of existence and non-existence altogether. The Tathāgata, having seen the arising and ceasing of phenomena, does not land on either extreme.
+Consider a film show. The images appear on the screen — people, places, events, a whole world unfolding. If asked "does this exist?" one must say no — it is only light and shadow, flickering on a screen. If asked "does it not exist?" one must also say no — it appears, it is seen, it has its own dependent reality. The middle way is seeing the film as a dependently arisen appearance — not real, not unreal, but conditionally present.
+
+The world of the five aggregates is exactly like this. To say it exists permanently is wrong; to say it does not exist at all is wrong. The middle is seeing it as it is: dependently arisen, empty of self, flowing from conditions to conditions.
 
 ### The Deeper Insight
 
-What the Kaccāyanagottasutta reveals is that the duality of existence and non-existence is itself a product of grasping. The mind, seeking security, wants to say either "it exists permanently" (eternalism) or "it is utterly annihilated" (annihilationism). Both are attempts to find a firm footing. The middle way is the willingness to have no footing — to see the flux of phenomena without needing to posit a permanent ground.
+The duality of existence and non-existence is itself a product of grasping. The mind, seeking security, wants to say either "it exists permanently" — and thus I can hold it — or "it is utterly annihilated" — and thus I can dismiss it. Both are attempts to find a firm footing. The middle way is the willingness to have no footing — to see the flux of phenomena without needing to posit a permanent ground.
 
-This is the meaning of "appatiṭṭhita viññāṇa" — consciousness that does not stand anywhere. Even consciousness, when it sees truly, does not take up a position. It sees arising and ceasing without landing on either.
+This is the meaning of *appatiṭṭhita viññāṇa* — consciousness that does not stand anywhere. Even consciousness, when it sees truly, does not take up a position. It sees arising and ceasing without landing on either extreme.
 
-### The Buddha's Silence on Self
+### The Buddha's Silence
 
-We recall here the Buddha's famous silence when the wanderer Vacchagotta asked him whether there is a self or not. The Buddha remained silent. When asked later by Ānanda why he did not answer, the Buddha explained: To say "there is a self" would be to side with the eternalists. To say "there is no self" would be to side with the annihilationists. Both answers would give fuel to grasping. The Buddha taught the Dhamma by the middle — showing the aggregates as they are, without affirming or denying a self.
+We recall the Buddha's silence when the wanderer Vacchagotta asked whether there is a self. To say "there is a self" would be to side with the eternalists. To say "there is no self" would be to side with the annihilationists. Both answers would give fuel to grasping. The Buddha taught the Dhamma by the middle — showing the aggregates as they are, without affirming or denying a self.
 
-This silence is not evasion. It is the most profound teaching of the middle way. When the question itself is wrongly framed, the wisest answer is to point out the framing, not to engage with it.
+This silence is not evasion. It is the most profound teaching of the middle way. When the question itself is wrongly framed, the wisest answer points out the framing. The film has been running for so long that we have forgotten it is a film. The middle way is the remembrance that all this is dependently arisen.
 
 ---
 
 ## Plain-English Notes
 
 ### Atthita / Natthita
-Existence and non-existence — the two extremes that the world leans upon. Both are products of a mind seeking permanence.
+Existence and non-existence — the two extremes upon which the world leans. Both are products of a mind seeking permanence.
 
 ### Majjhena
-"By the middle" — not a compromise position but a direct seeing that transcends the duality. The middle way is dependent arising itself.
+"By the middle" — not a compromise but a direct seeing that transcends the duality. The middle way is dependent arising itself.
 
 ### Sammādiṭṭhi
-Right view — seeing things as they really are, which is seeing dependent arising. Not a "view" in the sense of an opinion, but a direct understanding.
+Right view — seeing things as they really are. Not a view in the sense of an opinion, but a direct understanding of dependent arising.
 
-### Yathābhūta
-As it really is — the way of seeing that does not add or subtract anything, that sees phenomena just as they are in their conditioned arising and ceasing.
+### Paṭicca Samuppāda
+Dependent arising — the middle teaching that avoids both eternalism and annihilationism.
 
 ---
 
 ## Meditations
 
-### Contemplating Arising and Ceasing
+### The Two Shores Contemplation
 
-Observe any mental or physical phenomenon. Notice that it arises — it was not present before, and now it is. Notice that it ceases — it is present now, and then it will be gone. Rest in the middle between the thought "it was nothing" (non-existence) and "it is permanent" (existence). See only the process of dependent arising.
+Sit by a river in your imagination. On the left shore is eternalism — the belief that everything is permanent. On the right shore is annihilationism — the belief that everything is destroyed. The river flowing between them is dependent arising. Do not stand on either shore. Do not try to stand in the middle of the river. Become the flow itself.
 
-### The Oscillation Exercise
+### The Tightrope Practice
 
-Notice how the mind swings between "this is real" and "this is not real," between "I am" and "I am not," between existence and non-existence. Can you see the space between these two swings? Can you rest in the direct seeing that does not need to affirm or deny?
+In daily life, notice when the mind leans toward "this is real, this will last" (eternalism) or "this is nothing, this doesn't matter" (annihilationism). Find the balance that is not a compromise but a direct seeing: things arise, things cease. That is enough.
+
+### The Film Show Reflection
+
+Watch any experience as though it were a film. It appears vividly, it engages you, it tells a story. But it is only light and shadow. Neither affirm its reality nor deny its appearance. See it as dependently arisen.
 
 **The logic this reveals:** The middle way is not a path between two extremes but a seeing that transcends both — like waking from a dream, the question of whether the dream was real or unreal simply does not arise.
 

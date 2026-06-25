@@ -12,74 +12,73 @@
 
 ## The Teaching
 
-### Upādāna — The Fuel That Keeps the Fire Burning
+### Four Types of Fuel
 
-The word "upādāna" has a double meaning that is essential for understanding the Dhamma. On the one hand, it means "grasping" or "clinging." On the other hand, it means "fuel" — that which sustains a fire. The Buddha deliberately exploits this ambiguity to reveal the nature of suffering and its cessation.
+The word *upādāna* means both "grasping" and "fuel" — a deliberate ambiguity that reveals the nature of existence. The four types of grasping are like four kinds of fuel, each feeding the fire of existence in its own way.
 
-Just as a fire burns because it has fuel — twigs, grass, oil, or wood — so too the fire of existence burns because it has grasping as its fuel. The five aggregates of clinging — rūpupādānakkhandha, vedanupādānakkhandha, saññupādānakkhandha, saṅkhārupādānakkhandha, viññāṇupādānakkhandha — are not simply the aggregates themselves but the aggregates as objects of grasping.
+**Kāmupādāna** — the grasping of sense-desires — is like dry grass. It ignites easily, burns with a quick, bright flame, and is the most obvious fuel. A spark of pleasant contact, and the mind is ablaze with wanting.
 
-### The Four Types of Grasping
+**Diṭṭhupādāna** — the grasping of views — is like coal. It burns long and steady, with a deep, persistent heat. A view — political, philosophical, religious — can sustain the fire of identity for an entire lifetime, even for many lifetimes.
 
-The Buddha identifies four types of upādāna:
+**Sīlabbatupādāna** — the grasping of rites and rituals — is like wet wood. It smoulders, hard to light and hard to extinguish. The practitioner who clings to ritual may struggle for years, producing smoke and heat but no clear flame. The fire keeps burning, but without illumination.
 
-**Kāmupādāna** — the grasping of sense desires. This is the most evident form of clinging: the pursuit of pleasant sights, sounds, smells, tastes, tangibles. The mind runs after sense pleasures like a child chasing bubbles, each one bursting upon contact.
+**Attavādupādāna** — the grasping of the doctrine of self — is like oil. It does not burn obviously on the surface, but it feeds the flame from within. The sense of "I am" is the most subtle and pervasive fuel. It does not flare up like dry grass; it seeps into every moment, keeping the fire alive even when other fuels are scarce.
 
-**Diṭṭhupādāna** — the grasping of views. This is more subtle. It is the attachment to opinions, ideologies, philosophies. Even a "right view" can become an object of grasping if one clings to it as "mine." The Dhamma is a raft for crossing over, not for carrying on one's head.
+All four keep the fire of existence burning. The path is not to exchange one fuel for another — not to give up sensuality for the sake of views, nor to replace rites with a more refined self-doctrine. The path is to stop adding fuel altogether.
 
-**Sīlabbatupādāna** — the grasping of rites and rituals. This is the belief that purification comes through external observances, vows, or ceremonies. The Buddha repeatedly criticized those who thought mere ritual could lead to liberation. Even the practice of meditation can become sīlabbatupādāna if it is performed with a grasping attitude.
+### The Leech Simile
 
-**Attavādupādāna** — the grasping of the doctrine of self. This is the most entrenched form of grasping — the belief in a permanent, unchanging self or soul. It is the root from which the other three grow. As long as there is the sense of "I am," grasping continues.
+Consider a leech. It attaches to one leaf with its rear sucker, then reaches forward with its front sucker to grasp the next leaf. When the first leaf is let go, the second is already grasped. In this way the leech moves from leaf to leaf, never without a hold. So too with grasping at existence: reaching for one life, already grasping at the next. When one existence is released, the next is already held.
 
-### All Four Are Fuel
+The Arahant is the leech that has let go entirely — no leaf grasped, no reaching. The puthujjana is the leech that is always holding something: a body, a feeling, a perception, a thought, a self. The Arahant has released the first leaf and does not reach for another. He simply falls — and in that falling finds freedom.
 
-What is crucial to understand is that all four types of grasping are forms of fuel. They keep the fire of existence burning. The path to release is not to replace one type of grasping with another — not to exchange sensual grasping for the grasping of views, nor the grasping of rites for the grasping of self-doctrine. Rather, one must see through grasping itself.
+### The Tree Root System
 
-The Arahant does not cling even to Nibbāna. As it is said: "Nibbānaṃ paramaṃ vācaṃ, na upādiyati tādiso" — the such-like one does not grasp even at Nibbāna, the supreme state of which one may speak.
+The four types of grasping are like the root system of a great tree. Some roots go deep — attavādupādāna, the sense of self, penetrates the deepest layers of the mind. Some roots spread wide — kāmupādāna extends its tendrils through every sense-door. Some roots are thick and woody — diṭṭhupādāna becomes rigid with conviction. Some are fine and shallow — sīlabbatupādāna clings to surface routines.
 
-### The Interrelation of the Four
+Cut one root, and the tree may still stand. Cut them all, and the tree falls. The Arahant's wisdom is the axe that cuts through every root. Not one type of grasping remains. The tree of existence, which has stood for countless lives, crashes to the ground. There is no more becoming.
 
-It is important to see that these four are not entirely separate. They feed into one another. Grasping at sense desires is often supported by a view that justifies it. Grasping at rites and rituals is often rooted in the belief in a self that needs purification. The four are like strands of a rope, each reinforcing the others. To cut the rope, one must see through all four.
+### Grasping and the Aggregates
 
-The deepest is attavādupādāna. When the sense of "I am" is seen through, the other three lose their foundation. This is why the Buddha focused so much on anattā — not-self. It is not a philosophical position but a practical tool for cutting the root of all grasping.
-
-### Upādāna and Upādānakkhandha
-
-The aggregates of grasping are so called because they are the very fields upon which grasping operates. Form is not in itself suffering; it is the grasping at form that makes it suffering. Feeling is not in itself suffering; it is the grasping at feeling that makes it suffering. This is a crucial distinction. The Arahant still has the aggregates — form, feeling, perception, formations, consciousness — but no longer grasps at them. The aggregates remain, but without upādāna they are no longer "aggregates of grasping."
-
-### Parinibbāna — Full Extinguishment
-
-When the fuel of grasping is completely abandoned, the fire of existence goes out. This is parinibbāna. Not because the fire is destroyed, but because it no longer finds sustenance. The Arahant lives in this very life with the fires extinguished, and at death, the remainderless cessation occurs because there is no more fuel for rebirth.
+The five aggregates of clinging — *rūpupādānakkhandha* through *viññāṇupādānakkhandha* — are not the aggregates themselves but the aggregates as taken up by craving. The Arahant still has form, feeling, perception, formations, consciousness. But these are no longer fuel because there is no grasping. The aggregates remain, but without upādāna they are like a fire that has consumed all its fuel — the flame is gone, and only the memory of warmth remains.
 
 ### The Practical Path
 
-How does one see through grasping? Not by force, but by investigation. When greed arises, look at it. What is it? Is it permanent? Is it satisfying? Is it "mine"? When aversion arises, ask the same questions. When delusion arises, see it as delusion. This repeated investigation weakens the habit of grasping until, finally, it ceases altogether. This is the path of insight, the direct way to relinquishment.
+How does one see through grasping? By investigation. When greed arises, look at it. When aversion arises, ask: "What is this grasping?" When the sense of self arises, trace it to its root. This repeated investigation weakens the habit of grasping until, finally, it ceases altogether. The path is not to grasp at non-grasping, but to see grasping so clearly that it has no place to stand.
 
 ---
 
 ## Plain-English Notes
 
 ### Upādāna
-Grasping, clinging, fuel. The same word carries both meanings, pointing to the insight that grasping sustains the fire of existence.
+Grasping, clinging, fuel. The same word carries both meanings, revealing that grasping is what sustains the process of becoming.
+
+### Kāmupādāna / Diṭṭhupādāna / Sīlabbatupādāna / Attavādupādāna
+The four types of fuel: sense-desires, views, rites-and-rituals, self-doctrine. Each is progressively more subtle.
 
 ### Upādānakkhandha
-The aggregates of grasping — form, feeling, perception, mental formations, and consciousness as objects of clinging. Not the aggregates themselves, but the aggregates as taken up by craving.
+The aggregates of grasping — the five aggregates as objects of clinging, not the aggregates in themselves.
 
 ### Parinibbāna
-Full extinguishment — not annihilation, but the going out of the fire of craving when its fuel is exhausted.
+Full extinguishment — when the fuel of grasping is exhausted, the fire of existence goes out.
 
 ---
 
 ## Meditations
 
-### Identifying the Four Graspings
+### The Four Fuels Contemplation
 
-In your daily life, observe the four types of grasping as they arise. Notice how the mind grasps at pleasant sensations (kāmupādāna). Notice how it clings to opinions and justifications (diṭṭhupādāna). Notice how it seeks security in routines and patterns (sīlabbatupādāna). Notice how it refers everything back to "I" and "mine" (attavādupādāna).
+Observe your mind throughout the day. Notice when a sense-desire flares up like dry grass. Notice when a view holds you in its steady, coal-like grip. Notice when a routine becomes a compulsive ritual, smouldering like wet wood. Notice the subtle sense of self that oils every experience. See each for what it is: fuel.
 
-### The Fire Simile
+### The Leech Practice
 
-Sit quietly and imagine a flame burning on a wick. As the oil is consumed, the flame flickers. When the oil is gone, the flame ceases. Contemplate: are you feeding the fire of existence with the fuel of grasping? What would it mean to stop adding fuel?
+Notice the movement of your attention throughout the day. It goes from one object to the next, always holding. Without judgement, see this reaching. Can you let go of the first leaf without reaching for a second? Can you rest in the gap between grasps?
 
-**The logic this reveals:** Grasping and fuel are the same thing — release is not about getting what you grasp for, but about no longer needing to grasp at all.
+### Cutting the Roots
+
+Imagine a great tree with the four types of roots. See each root clearly. Now imagine the axe of wisdom — seeing things as they really are — cutting each root. The tree falls. What remains is not a void but an absence of the need to hold.
+
+**The logic this reveals:** Grasping and fuel are the same thing. Release is not about getting what you grasp for, but about no longer needing to grasp at all. The Arahant does not cling even to Nibbāna — the supreme state is not held, it is realized in the letting go.
 
 ---
 

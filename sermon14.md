@@ -12,55 +12,69 @@
 
 ## The Teaching
 
-### Mūlapariyāya: The Root of All Things
+### Mūlapariyāya: The Three Attitudes
 
-The Mūlapariyāyasutta, the very first discourse of the Majjhima Nikāya, lays bare the fundamental pattern underlying our relationship with all phenomena. It describes three distinct attitudes toward twenty-four basic concepts — earth, water, fire, air, beings, gods, the All, Nibbāna, and so forth — revealing how the same object is experienced differently depending on the degree of inner purification.
+The Mūlapariyāyasutta, the first discourse of the Majjhima Nikāya, describes three distinct attitudes toward twenty-four basic concepts — earth, water, fire, air, beings, gods, Nibbāna. The same object is experienced in utterly different ways depending on the degree of inner purification.
 
-### The Worldling's Attitude: Perception and "I-Making"
+Consider a great tree standing in the marketplace. One trader comes for buds, another for leaves, another for flowers, another for fruit, another for timber, and still another for firewood — each sees the same tree but their attitude toward it is entirely determined by their own purpose. In exactly this way, the worldling, the trainee, and the Arahant approach earth, water, fire, air — every object of experience — from three entirely different attitudes. The same earth is perceived, but the relationship to it is worlds apart.
 
-The untaught ordinary person perceives earth as earth, but immediately the mind moves into *maññanā* — imagining in terms of "I" and "mine." He imagines it as "earth," imagines "on the earth," imagines "from the earth," imagines "earth is mine," and delights in earth. This is not a passive perception but an active appropriation, a staking of claim through the conceit of ownership. The worldling relies on perception alone, taking the mere appearance as a solid reality.
+### The Worldling: Grasping at the Middle
 
-### The Trainee's Attitude: Knowing Without Full Release
+The untaught ordinary person perceives earth as earth, but immediately the mind moves into *maññanā* — imagining in terms of "I" and "mine." He imagines it as "earth," imagines "on the earth," imagines "from the earth," imagines "earth is mine," and delights in earth.
 
-The noble one in higher training also knows earth as earth, but a subtle residue of *maññanā* may remain. He understands rightly, yet the old habits of imagining — "I shall be," "I shall not be" — still linger at the deepest level. He is like one who sees the snare clearly but has not yet fully extricated himself.
+Think of strands being wound together into a rope. So long as no one grasps in the middle, the strands remain loose and free. But the moment a hand grips the middle, tension arises, instantly creating two ends — one on each side of the grasp. Likewise, the worldling's grasping in the very middle of experience — at the moment of perception itself — creates the tension of existence, splitting it into "I" here and "mine" over there. Without that grasp, the strands of conditions remain loose, untangled, at peace.
 
-### The Arahant's Attitude: Full Comprehension, No Delight
+### The Trainee: Seeing Through, Still Stirring
 
-> *Paṭhaviṃ paṭhavito abhijānāti, paṭhaviṃ paṭhavito abhiññāya paṭhaviṃ na maññati, paṭhaviyā na maññati, paṭhavito na maññati, 'paṭhaviṃ me'ti na maññati, paṭhaviṃ nābhinandati. Taṃ kissa hetu? 'Pariññātaṃ tassā'ti vadāmi.*
+The noble one in higher training also knows earth as earth, but a subtle residue of *maññanā* remains. He understands rightly, yet the old habits — "I shall be," "I shall not be" — still linger. He is like one who sees the snare clearly but has not yet fully extricated himself.
 
-The Arahant and the Tathāgata understand earth through higher knowledge (*abhijānāti*). Having understood, they do not imagine earth, do not imagine "on the earth," do not imagine "from the earth," do not imagine "earth is mine," and do not delight in earth. Why? Because it has been fully comprehended (*pariññātaṃ*). Full comprehension is the key: when something is seen through completely, the mind no longer reaches for it, no longer builds a self around it. The Arahant does not deny earth — he knows it as earth, but without the "I" and "mine" that turn perception into possession.
+### The Arahant: Mirror Without Stain
 
-### The Logic of Non-Imagining
+To extend the simile of a mirror: suppose a clean mirror stands before three people. The worldling sees his face in the mirror and immediately likes or dislikes the image — he identifies with it. The trainee sees the face and knows it is just a reflection, but a subtle tendency to react may still stir. The Arahant sees the reflection for what it is — mere image — with no delight, no aversion, no identification. The same mirror, the same light, yet three entirely different relationships to what appears.
 
-The progression is clear: perception → imagining → delight → bondage. The worldling stops at perception and immediately imagines. The trainee sees through much but still imagines subtly. The Arahant comprehends fully, and in that full comprehension, imagining ceases. Not by suppression, but by seeing so completely that there is nothing left to grasp.
+> *Paṭhaviṃ paṭhavito abhijānāti, paṭhaviṃ paṭhavito abhiññāya paṭhaviṃ na maññati ... Taṃ kissa hetu? 'Pariññātaṃ tassā'ti vadāmi.*
+
+The Arahant understands earth through higher knowledge. Having understood, he does not imagine earth, does not imagine "on the earth," does not imagine "from the earth," does not imagine "earth is mine," and does not delight in earth. Why? Because it has been fully comprehended (*pariññātaṃ*). When something is seen through completely, the mind no longer reaches for it.
+
+### Picture, Background, and the Island
+
+The progression is clear: perception → imagining → delight → bondage. The worldling stops at perception and immediately imagines. The trainee sees through much but still imagines subtly. The Arahant comprehends fully, and imagining ceases.
+
+Form and space are relative, like a picture against its background. The worldling stares at the picture and sees only the figures, missing the space between them. The trainee notices both figure and ground. The Arahant sees the canvas itself — the empty substratum in which all figures arise and dissolve.
+
+Nibbāna is an island — but not one of sand and trees. The Buddha says: *Attadīpā viharatha paṭññattisaraṇā anaññasaraṇā* — "Dwell with yourselves as an island, with the Dhamma as your refuge." The island of Nibbāna is where "owning naught, grasping naught" becomes the ground itself. On this island, decay and death are destroyed — not because it is a place beyond the world, but because the mind no longer reaches out to grasp the world's offerings.
 
 ---
 
 ## Plain-English Notes
 
-### Maññanā (I-Making)
+### Tree Traders of Experience
 
-Not ordinary thinking but the specific activity of referring experience back to a self: "this is *mine*," "this is *I*," "this is *my self*." The worldling cannot perceive anything without immediately appropriating it.
+The three attitudes toward the same object show that liberation is not about changing what you see, but about changing your relationship to seeing. The worldling trades in perception; the trainee looks for understanding; the Arahant has no need of trading at all.
+
+### Maññanā and the Rope-Twist
+
+The rope-winding analogy reveals that grasping creates the very ends it thinks it holds. Without a grasp in the middle, there is no "I" and no "mine" — only the loose strands of conditions flowing freely.
 
 ### Pariññā (Full Comprehension)
 
-Complete understanding that cuts off all possibility of delight or grasping. When you fully comprehend something, you don't need to remind yourself not to grasp it — the grasping has no ground to stand on.
+Complete understanding that cuts off all possibility of delight. When you fully comprehend something, you don't need to remind yourself not to grasp it — the grasping has no ground.
 
-### Abhijānāti (Understanding by Higher Knowledge)
+### Nibbāna as Island
 
-Direct knowing, not inferential or conceptual. The Arahant knows earth as earth not by thinking about it but by a direct, non-conceptual realization of its nature.
+Not a literal refuge in space, but the state where owning and grasping have ceased. It is called an island because, on it, the floods of craving, becoming, and ignorance cannot reach.
 
 ---
 
 ## Meditations
 
-### The Three Attitudes
+### Observing the Three Attitudes
 
-Take a simple object — a stone, a cup, a patch of light on the wall. First, notice the worldling's attitude: how the mind instinctively claims it. "This *is* a cup. I see it. It's *mine*." Feel the subtle possessiveness.
+Take a simple object — a stone, a cup, a patch of light. First, notice the worldling's attitude: how the mind instinctively claims it, like the man gripping the rope in the middle. Feel the tension arise.
 
-Now bring the trainee's attitude: you see it, you know it's a cup, but you hold the knowledge lightly. There is awareness that imagining is still happening, but you don't act on it.
+Now bring the trainee's attitude: you see it, you know what it is, but you hold the knowledge lightly. The grip loosens.
 
-Finally, rest in the Arahant's attitude: just the seen. No claiming, no "mine," no delight. The cup is there as a seen thing. That's all. Nothing is added. Nothing is grasped.
+Finally, rest in the Arahant's attitude: just the seen. No claiming, no "mine," no delight. The picture is there, but the background is seen too. The island of owning naught is already here.
 
 **The logic this reveals:** Liberation is not about changing what is seen, but about stopping the habitual "adding" of self to experience.
 

@@ -14,67 +14,74 @@
 
 ### Āsavā — The Influxes That Flood the Mind
 
-The word "āsava" is rich in meaning. It comes from the root "savati" — to flow, to ooze, to trickle. The āsavas are the influxes or cankers that flow into the mind and keep it bound to saṃsāra. Like a leak in a ship, they let in the waters of suffering. The Arahant is described as "khīṇāsava" — one whose influxes are destroyed. The ship is now watertight.
+The word *āsava* comes from the root *savati* — to flow, to ooze, to trickle. The āsavas are the influxes that flow into the mind and keep it bound to saṃsāra. Like leaks in a ship, they let in the waters of suffering. The Arahant is described as *khīṇāsava* — one whose influxes are destroyed. The ship is now watertight.
 
-The Buddha identifies three influxes: kāmāsava, the influx of desire for sensuality; bhavāsava, the influx of desire for existence; and avijjāsava, the influx of ignorance. Some texts add a fourth, diṭṭhāsava, the influx of views, but the threefold classification is the most common and most fundamental.
+The Buddha identifies three influxes: *kāmāsava* (sensuality), *bhavāsava* (existence), and *avijjāsava* (ignorance). Each is more subtle than the previous.
 
-### Kāmāsava — The Influx of Sensuality
+### Flood / Ogha
 
-The first influx is the most apparent. The mind flows towards sense pleasures as water flows downhill. Every sense contact is an opportunity for the influx of craving to enter. The eye meets a form, and if the form is pleasant, the mind flows out towards it. This outward flowing is kāmāsava.
+The influxes are like floods constantly flowing into the mind. From where do they come? They arise with every sense-contact: a pleasant sight, and the flood of desire rushes in; a thought of future becoming, and the flood of existence pours through; a moment of confusion, and the flood of ignorance submerges awareness. The mind of the worldling is like low-lying land, perpetually flooded.
 
-The practice of sense-restraint, indriyasaṃvara, is the first line of defense against this influx. By guarding the sense doors, one prevents the influx from flooding the mind.
+The Arahant has built a dam. No more influxes can enter. The floodwaters may still be present — sights still appear, sounds still arise — but the mind is no longer permeable. The dam is wisdom, built through the direct seeing of the four noble truths. When ignorance is uprooted, the floods have no entry point.
 
-### Bhavāsava — The Influx of Existence
+### Tree Root Cut
 
-More subtle is the influx of desire for existence. This is not merely the desire to live, but the deep existential craving for becoming — the momentum that propels the mind from one life to the next. Even the desire for meditative attainments can be a form of bhavāsava if it is driven by craving.
+If a tree's root is cut, the tree falls, even if the trunk appears intact for a time. The trunk may still stand, may even appear to have leaves, but it is already dead. So too with the Arahant. When ignorance is uprooted — the very root of all the influxes — all defilements cease. The body may remain, the trunk of the old tree standing for a while. But the root is cut; no new growth is possible.
 
-The Arahant has no wish for any form of existence — not for sense-sphere existence, nor for fine-material existence, nor for immaterial existence. Even the desire for Nibbāna as a state to be attained is ultimately let go.
+This is the meaning of *sa-upādisesa nibbāna* — Nibbāna with the residual substance of the body still remaining. The Arahant lives, but the influxes have ceased. The tree is dead but still standing. At parinibbāna, the body falls, and no new tree arises.
 
-### Avijjāsava — The Influx of Ignorance
+### Prisoner Released
 
-The deepest influx is ignorance — not knowing things as they really are. Avijjā is the root from which all other defilements grow. It is like the root of a tree: if the root remains, the tree will grow again even if the branches are cut.
+A prisoner who has been set free — even if he remains in the prison grounds for a moment, he is no longer a prisoner. The gates are open, the chains are removed. He may walk within the prison walls, but he is free. So too the Arahant. While the body remains, the Arahant still moves through the world, still experiences sense-contact, still lives among the conditions of human existence. But the prison is unlocked. The bonds of craving are broken. Death is not an escape; it is simply the closing of a door that was already open.
 
-When ignorance is uprooted by true knowledge — vijjā — all other influxes cease. This is why the Buddha said that with the arising of vijjā, avijjā ceases, and with the cessation of avijjā, all formations cease. The destruction of the influxes is the destruction of ignorance.
+### Man Whose Debt Is Paid
 
-### The Simile of the Tree
+A debtor who has paid all his debts may still meet his creditor in the marketplace. But there is no more obligation. The look between them is different — no anxiety, no avoidance, no need to promise future payment. So too the Arahant meets sense-objects without the debt of craving. Pleasant objects arise — there is no compulsion to grasp. Unpleasant objects arise — there is no compulsion to push away. The debt of craving has been paid in full, with the insight that there was never a debtor to begin with.
 
-The Buddha gives the simile of a tree. If a man cuts the branches of a tree but leaves the root intact, the tree will grow again. But if he digs up the root completely, the tree will fall and never grow again. So too with the influxes. If one merely suppresses defilements through concentration but does not uproot ignorance through insight, they will grow again. But when avijjā is uprooted, all defilements cease. The Arahant is one who has dug up the root.
+### Kāmāsava, Bhavāsava, Avijjāsava
 
-### Āsavakkhaya — The Gradual Path
+The first influx is the most apparent — the mind flows towards sense-pleasures as water flows downhill. Sense-restraint is the first line of defence. The second is more subtle — the desire for existence, the momentum that propels the mind from one life to the next. Even the desire for meditative attainments can be a form of bhavāsava. The deepest is avijjāsava — not knowing things as they are. When avijjā is uprooted by vijjā — direct knowledge — all other influxes cease.
 
-The destruction of the influxes does not happen all at once. It is the culmination of a gradual training — anupubbasikkhā, anupubbakiriyā, anupubbapaṭipadā. The gradual training begins with virtue (sīla), leads to concentration (samādhi), and culminates in wisdom (paññā). With wisdom, the influxes are destroyed.
+### Āsavakkhaya — The Gradual Culmination
 
-This is why the path is called "sa-upādisesa" — with residual fuel — until the Arahant attains parinibbāna. The influxes are destroyed in this life, but the body remains. Like a fire that has consumed all its fuel but still radiates heat until the coals cool, the Arahant lives out the remainder of the life-span, then attains final Nibbāna.
+The destruction of the influxes is the culmination of the gradual training: virtue, concentration, wisdom. With the arising of vijjā, avijjā ceases, and with the cessation of avijjā, all formations cease. The path is gradual, but the fruit is sudden — like a dam that holds back the flood for years, but the moment it is complete, the flooding stops all at once.
 
 ---
 
 ## Plain-English Notes
 
 ### Āsava
-Influx, canker, taint. The flows of craving and ignorance that seep into the mind and keep it bound to saṃsāra. The Arahant is khīṇāsava — one whose influxes are destroyed.
+Influx, canker, taint. The flows of craving and ignorance that seep into the mind. The Arahant is khīṇāsava — one whose influxes are destroyed.
 
-### Kāmāsava, Bhavāsava, Avijjāsava
-The three influxes: sensuality, existence, and ignorance. Each is more subtle than the previous, with avijjā as the root.
+### Kāmāsava / Bhavāsava / Avijjāsava
+The three influxes: sensuality, existence, ignorance. Each is more subtle than the last, with avijjā as the root.
 
 ### Khīṇāsava
-One whose influxes are destroyed — the Arahant, who has uprooted all defilements and will not be reborn.
+One whose influxes are destroyed — the Arahant, who has uprooted all defilements.
 
 ### Vijjā
 True knowledge — the direct seeing of things as they are, which uproots avijjā.
+
+### Sa-upādisesa / Anupādisesa
+With residual fuel / without residual fuel — the two Nibbāna elements. The former is Nibbāna in this life; the latter is final Nibbāna at death.
 
 ---
 
 ## Meditations
 
-### Tracing the Influxes
+### Tracing the Floods
 
-In meditation, observe the mind's tendency to "flow out" towards objects. Notice how a pleasant sensation triggers reaching out. Notice how even the desire to progress in meditation can be a subtle form of craving for existence. Can you see the root of ignorance that sustains these movements?
+In meditation, observe the mind's tendency to flow out towards objects. A pleasant sensation triggers reaching. A thought about the future triggers wanting to become. A moment of confusion triggers grasping for certainty. See each for what it is — an influx, an āsava. Can you build the dam of seeing?
 
-### The Tree Root Contemplation
+### The Prisoner Practice
 
-Imagine a tree whose root is ignorance. Each time you see a defilement arise — greed, aversion, delusion — trace it back to its root. Ask: "Does this arise from not seeing things as they are?" Practice seeing the impermanent as impermanent, the painful as painful, the not-self as not-self. This is how the root is cut.
+Reflect on a time when you felt trapped — by a situation, a habit, a relationship. Now imagine that the door is open. The situation may be the same, but the feeling of imprisonment is gone. Can you taste that freedom now, even in the midst of conditions?
 
-**The logic this reveals:** The destruction of the influxes is not a suppression but an uprooting — when ignorance is replaced by seeing, the inflow of craving ceases, and the mind becomes like a still lake no longer fed by any stream.
+### The Paid Debt Contemplation
+
+When a pleasant object arises, check: is there a sense of obligation — "I must have this"? When an unpleasant object arises, check: is there a sense of obligation — "I must avoid this"? The Arahant meets all objects without debt. Can you meet just one object today as though the debt were paid?
+
+**The logic this reveals:** The destruction of the influxes is not a suppression but an uprooting. When ignorance is replaced by seeing, the inflow of craving ceases, and the mind becomes like a still lake no longer fed by any stream. The root is cut, the prison is open, the debt is paid.
 
 ---
 

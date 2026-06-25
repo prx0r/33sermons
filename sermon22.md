@@ -1,4 +1,4 @@
-# Nibbāna – The Mind Stilled: Sermon 22
+# Nibbāna – The Mind Stilled: Sermon XXII
 
 **By Bhikkhu K. Ñāṇananda**
 
@@ -12,47 +12,68 @@
 
 ## The Teaching
 
-### The Undeclared Points and the Buddha's Silence
+### The Man Shot with a Poison Arrow (Cūḷamālukyasutta)
 
-There are ten speculative questions — the *avyākata* points — on which the Buddha maintained silence. Is the world eternal or not eternal? Is the world finite or infinite? Is the soul the same as the body or different? Does the Tathāgata exist after death, not exist, both, or neither?
+A man is shot with a poisoned arrow. His relatives call a skilled doctor to remove the arrow and apply medicine. But the wounded man says: "I will not let you remove this arrow until I know the name and clan of the archer. I will not let you remove it until I know whether he is tall or short, dark or fair, from this village or that. I will not let you remove it until I know the type of bow, the material of the bowstring, the kind of feather on the arrow, the type of arrowhead." Before any of these questions could be answered, the man would die.
 
-These questions are not answered because they are wrongly put. They arise from a fundamental misunderstanding — the assumption of a self, a soul, an enduring entity. The Buddha's silence is not evasion; it is a teaching. It points to the fact that the questions themselves rest on a metaphysical fiction.
+The Buddha's point is direct: the holy life is not for answering speculative questions. It is for removing the arrow of suffering here and now. The ten *avyākata* (undeclared) points — whether the world is eternal or not, whether the world is finite or infinite, whether the soul is the same as the body or different, whether the Tathāgata exists after death, does not exist, both, or neither — these are all questions asked by a man who has not yet removed the arrow. They are distractions dressed as profundity.
 
-### The Fire Simile Revisited
+The Buddha's silence on these points is not ignorance; it is a diagnosis. The questions themselves are symptoms of the disease — the disease of craving for conceptual certainty, of grasping at views. The doctor does not answer the wounded man's questions. The doctor removes the arrow. That is the work of the Dhamma.
 
-When a fire goes out because its fuel is exhausted, where does it go? To the east, west, north, or south? The question is nonsensical. The fire does not "go" anywhere — it ceases because the conditions for its existence are no longer present. So too with the Tathāgata. To ask whether the Tathāgata exists after death is to assume that the Tathāgata is a something that could continue or cease. But the Tathāgata, having abandoned all identification with the five aggregates, is "deep, immeasurable, unfathomable as the great ocean."
+### Fire Gone Out — No Direction
 
-### The Tetralemma and Its Limits
+The ten indeterminate questions all share the same flaw: they ask about something in terms that no longer apply. It is like asking where a fire that has gone out has gone. Does it go east, west, north, or south? The question itself is wrongly put. The fire has not gone anywhere — it has ceased because its fuel is exhausted. The question assumes a continuant where there is only cessation.
 
-The *catukoṭika* — the four-cornered logic of "exists, not exists, both, neither" — exhausts all possible positions. But Nibbāna is not a position. The tetralemma applies to the conditioned, to what can be spoken of in terms of being and non-being. Nibbāna is *asaṅkhata* — unconditioned. It cannot be captured by any of the four corners. To say it exists is to reify it; to say it does not exist is to deny it; to say both is to contradict oneself; to say neither is still to speak in terms of existence and non-existence.
+So too with the question of whether the Tathāgata exists after death, does not exist, both, or neither. The Tathāgata cannot be measured by any of these categories. He is like a fire that has gone out — "deep, immeasurable, unfathomable as the great ocean." The tetralemma applies only to the conditioned, to what is still burning with fuel. The Tathāgata is beyond all such reckonings.
 
-The wise understand that the truth is to be seen directly, not arrived at through speculative reasoning. *Diṭṭhi* — holding to views — is itself a fetter.
+This is why the Buddha refused to answer Vacchagotta's questions. It was not that the answers were too deep — it was that the questions themselves were built on a mistaken premise. They assumed that the Tathāgata is a being who could continue or cease. But the Tathāgata, having abandoned all clinging, cannot be classified in terms of existence or non-existence. He is like a fire that has been so thoroughly extinguished that even the question of "where" has lost its meaning.
+
+### The Rope of Three Strands
+
+The tangle of speculative views is like a three-stranded rope. Each strand alone is strong, but twisted together they are almost unbreakable. The three strands are craving (*taṇhā*), conceit (*māna*), and views (*diṭṭhi*). Craving grasps at existence. Conceit compares and measures: "I am better, equal, or worse." Views provide the conceptual framework that justifies and reinforces both.
+
+Twisted together, these three strands produce the entire net of speculative metaphysics. The view that "the world is eternal" is not just a dry philosophical position — it is fuelled by craving for permanence, by the conceit of a self that endures, and by a conceptual framework that reifies existence. The view that "the world is not eternal" is similarly twisted — fuelled by craving for annihilation, by the conceit that "I will cease to be," and by a conceptual framework that posits non-existence as a real state.
+
+The Buddha cuts the rope by cutting the strands. He does not answer the speculative questions; he diagnoses the threefold fetter that produces them. When craving, conceit, and views are abandoned, the questions simply do not arise. The rope falls apart.
+
+It is important to see that these three strands reinforce each other. Craving alone, without the conceit of a self to experience the gratification, would have nowhere to land. Conceit alone, without views to justify the comparison, would lack its framework. Views alone, without the energy of craving and conceit, would be dry philosophy without existential pull. Together, they form an almost unbreakable tangle — and it is this tangle, not any particular answer, that keeps beings bound to saṃsāra.
 
 ---
 
 ## Plain-English Notes
 
-### avyākata (Undeclared)
-Those questions the Buddha left unanswered, not because He did not know, but because the question assumes what must be abandoned.
+### The Ten Avyākata (Undeclared) Questions
 
-### tetralemma / catukoṭika
-Four logical possibilities: X is, X is not, X both is and is not, X neither is nor is not. Nibbāna escapes all four.
+1. Is the world eternal?
+2. Is the world not eternal?
+3. Is the world finite?
+4. Is the world infinite?
+5. Is the soul the same as the body?
+6. Is the soul different from the body?
+7. Does the Tathāgata exist after death?
+8. Does the Tathāgata not exist after death?
+9. Does the Tathāgata both exist and not exist after death?
+10. Does the Tathāgata neither exist nor not exist after death?
 
-### Tathāgata
-"Thus-gone" or "Thus-come" — the Buddha's self-designation, implying one who has gone beyond all measuring and conceiving.
+### Why the Buddha Was Silent
 
-### diṭṭhi (Views)
-Not just wrong views, but all views — including right views — when clung to. The Dhamma itself must be let go of.
+Not because he lacked knowledge. Because the questions assume a self or soul that must continue, cease, both, or neither. They ask about a "fire" that has already gone out.
+
+### The Arrow and the Doctor
+
+The Dhamma is practical — it removes suffering. Speculation about unanswerable questions delays the work of liberation.
 
 ---
 
 ## Meditations
 
-### Sitting with the Unanswerable
+### The Poison Arrow Contemplation
 
-Take one of the undeclared questions — "Who am I?" or "Where will I go after death?" — and see what happens when you refuse to answer it. Notice the mind's restlessness, its demand for resolution. Stay with the discomfort. The question is a construct; the silence beneath it is what the Buddha pointed to.
+Think of a question you repeatedly ask yourself — about the afterlife, about your identity, about the nature of reality. Feel the anxiety behind it. Now ask yourself: is answering this question going to remove suffering right now? Or is it a delaying tactic — a way to avoid the urgent work of seeing through craving?
 
-**The logic this reveals:** The compulsion to answer speculative questions is itself a form of craving — a thirst for conceptual security that the Dhamma teaches us to release.
+Imagine the arrow is still lodged in your flesh. Every moment spent asking about the archer is a moment the poison spreads. Let the questions go. Attend to the arrow.
+
+**The logic this reveals:** The compulsion to speculate is itself a fetter. Let it go. The path is not about having answers — it is about being free from the need for them.
 
 ---
 

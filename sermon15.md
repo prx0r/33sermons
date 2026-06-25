@@ -12,59 +12,73 @@
 
 ## The Teaching
 
-### Maññanā as the Bondage of Māra
+### Bāhiya and the Three Trainings
 
-The Buddha compares *maññanā* — imagining or I-making — to an extremely subtle bondage of Māra. It is so subtle that even the thought "I shall not be" is still a form of bondage, for it is still framed in terms of being and non-being, self and no-self. The Yavakalāpisutta of the Saḷāyatanasaṃyutta shows that all thoughts concerning existence — all of them — stem from the subtle conceit "I am" (*asmimāna*). This conceit is the root that keeps beings shackled to existence.
+The Buddha's exhortation to the ascetic Bāhiya Dārucīriya is perhaps the most succinct instruction ever given for attaining arahantship. So powerful was it that Bāhiya reached the goal in an instant, right as he heard it:
 
-### The Dichotomy of Bondage
-
-Whether one thinks "I shall be" or "I shall not be," one is in bondage. Whether one thinks "I shall be percipient," "I shall be non-percipient," or "I shall be neither percipient nor non-percipient," one is still bound. The dichotomy itself is the trap. The mind imagines that liberation is one side of a pair, but both sides are within the domain of *maññanā*. True freedom is not choosing one pole but transcending the dichotomy altogether.
-
-### The Dhātuvibhaṅgasutta: The Sage Stilled
-
-The Dhātuvibhaṅgasutta presents a majestic passage that forms the grand finale of the discourse to Venerable Pukkusāti:
-
-> *Yatthaṭṭhitaṃ maññussavā nappavattanti, maññussave kho pana nappavattamāne muni santo ti vuccatīti.*
+> *Tasmātiha te, Bāhiya, evaṃ sikkhitabbaṃ: diṭṭhe diṭṭhamattaṃ bhavissati, sute sutamattaṃ bhavissati, mute mutamattaṃ bhavissati, viññāte viññātamattaṃ bhavissati.*
 >
-> "When the streams of maññanā no longer flow, when they have ceased, the sage is called 'stilled.'"
+> "Well, then, Bāhiya, you had better train yourself thus: In the seen there will be just the seen, in the heard just the heard, in the sensed just the sensed, in the cognized just the cognized."
 
-The text enumerates all the forms of *maññanā*: "I am," "I am this," "I shall be," "I shall not be," "I shall be percipient," "I shall be non-percipient," "I shall be neither percipient nor non-percipient" — all are *maññitaṃ*, something imagined. The Buddha declares: *Maññitaṃ, bhikkhu, rogo, maññitaṃ gaṇḍo, maññitaṃ sallaṃ* — "Imagining is a disease, imagining is a tumour, imagining is a dart."
+The instruction points directly to the three trainings — sīla (virtue), samādhi (concentration), samādhi (wisdom) — not as separate stages but as the unravelling of the same knot from three sides.
 
-### The Sage Who Does Not Age or Die
+### The Deserted Village of the Sense-Bases
 
-> *Sabbamaññitānaṃ tveva, bhikkhu, samatikkamā muni santo ti vuccati.*
->
-> "It is by transcending all imaginings that one is called a sage, stilled."
+The six sense-bases — eye, ear, nose, tongue, body, mind — are like a deserted village. All inhabitants have fled. There is no self dwelling in the eye, no self dwelling in the ear. The village stands empty of owner or occupant. Yet the worldling imagines a resident — a "seer" behind the seeing, a "hearer" behind the hearing. The Bāhiya instruction is the Buddha's command to see that the village is truly deserted: in the seen, just the seen — no owner, no dweller, no self.
 
-The muni who is stilled does not age, does not die, does not tremble, does not yearn. Why? Because there is nothing in him by which he could be born. Being unborn, how could he age? Not aging, how could he die? Not dying, how could he tremble? Not trembling, for what could he yearn? This is not annihilation but the cessation of the very ground of *maññanā*.
+### The Three-Stranded Rope Tangle
+
+Suppose a man tries to climb a rope made of three strands. The strands are craving, conceit, and views — a tangle that keeps beings bound to the cycle of existence. The harder he climbs, the more the rope twists and tightens. The three trainings are the unravelling of this three-stranded tangle: sīla loosens the strand of craving, samādhi untwists the strand of views, paññā dissolves the strand of conceit. When all three strands are untangled, there is no rope left to climb — and no climber.
+
+### The Cinema Hall Illumination
+
+When a cinema hall is suddenly illuminated, the scenes on the screen fade away. They do not go elsewhere — they simply vanish because the lesser light of the projection is superseded by the greater light of the hall. In the same way, the lesser light of the six sense-bases — all the radiant appearances of sensory experience — is superseded by the greater light of wisdom. The Buddha speaks of *viññāṇaṃ anidassanaṃ, anantaṃ sabbato pabhaṃ* — consciousness that is non-manifestative, endless, lustrous on all sides. The sun, moon, and stars — all sensory radiances — do not shine there, because there is no darkness for them to shine against. That luminosity is not a light among lights; it is the light that makes all other lights known, without itself being known as an object.
+
+### The Dewdrop Brilliance
+
+Just as a single dewdrop dazzling in the morning sunshine can outshine an entire landscape when caught at the right angle, the brilliance of wisdom outshines all the accumulated radiance of sensory existence. Bāhiya's realization was like that dewdrop — instantaneous, crystalline, and total. He did not accumulate wisdom over time; he saw, in a single flash of insight, what had always been the case.
+
+### Na Tena, Na Tattha: The Unravelling
+
+> *Yato kho te, Bāhiya, diṭṭhe diṭṭhamattaṃ bhavissati ... tato tvaṃ Bāhiya na tena. Yato tvaṃ Bāhiya na tena, tato tvaṃ Bāhiya na tattha. Yato tvaṃ Bāhiya na tattha, tato tvaṃ Bāhiya nev'idha na huraṃ na ubhayamantarena. Es'ev'anto dukkhassa.*
+
+When there is just the seen, you are not *by it* (*na tena*) — the mind no longer uses the seen as a basis for *maññanā*. Not being by it, you are not *in it* (*na tattha*) — the mind does not dwell in the sensory field as a location for self. Not being in it, you are neither here nor there nor in between. This is *atammayatā* — non-identification — the state that Bāhiya realized. When identification ceases entirely, suffering has no ground on which to stand.
+
+The deserted village is now truly deserted. The rope is untangled. The cinema hall is fully lit. The dewdrop has caught the sun.
 
 ---
 
 ## Plain-English Notes
 
-### Asmimāna (The Conceit "I Am")
+### The Deserted Village
 
-The most subtle form of conceit — not the gross "I am better than" but the basic sense of self-existence that underlies all experience. Even the ascetic who denies the self still operates from "I am" when he thinks "I shall not be."
+The six sense-bases are empty of a self. Seeing them as a deserted village helps us stop looking for a resident behind experience.
 
-### Muni (The Sage)
+### The Three Trainings and the Three-Stranded Rope
 
-One who has measured (*mināti*) the depths of the Dhamma, or one who is silent (*mona*). The sage is characterized not by knowledge but by stillness — the cessation of the inner chatter of *maññanā*.
+Sīla, samādhi, and paññā are not sequential steps on a ladder but simultaneous facets of a single disentanglement. Each training untwists one strand of the craving-conceit-views tangle.
 
-### Santo (Stilled)
+### Non-Manifestative Consciousness
 
-Peaceful, but with the active sense of having been calmed. The sage is not merely quiet; he has stilled what was agitated — the compulsive movement of imagining.
+When the lesser light of sense-experience is outshone by the greater light of wisdom, what remains is consciousness that does not "point to" any object. It is like a cinema hall that has been fully lit: the drama is over.
+
+### Atammayatā (Non-Identification)
+
+Not being "made of" anything — the mind no longer identifies with any phenomenon. The deserted village has no owner; the rope has no climber.
 
 ---
 
 ## Meditations
 
-### Observing the Dichotomy
+### Walking Through Similes
 
-Take any pair of opposites in your mind: "I shall be" / "I shall not be," "I like" / "I dislike," "I want" / "I don't want." Notice that both poles are forms of the same thing — a reference to "I." Whether you grasp or push away, the "I" is still the centre.
+Sit quietly. Imagine your sense-bases as a deserted village — rooms without owners, doors without keepers. Can you sense the seeing without a seer?
 
-Now try to see: can there be awareness without either pole? Can you simply be aware of a thought without affirming or denying, without being or not-being? Rest in that middle, which is not a middle between two things but a freedom from both.
+Now feel the three-stranded rope of craving, conceit, and views. Which strand is tightest for you right now? Let the three trainings loosen it — sīla stilling the body, samādhi steadying the mind, paññā cutting through.
 
-**The logic this reveals:** As long as even a trace of "I am" remains, the dichotomy of becoming continues. The sage's stillness is not a state within the dichotomy but its complete transcendence.
+Finally, imagine a dewdrop catching the morning sun — a single, flawless point of clarity. Rest in that clarity: just the seen, just the heard, just the sensed, just the cognized.
+
+**The logic this reveals:** The end of suffering is not reached by adding anything. It is found by subtracting the owner, the dweller, the climber — until only the bare experience remains.
 
 ---
 

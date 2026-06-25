@@ -12,59 +12,73 @@
 
 ## The Teaching
 
-### The Bāhiyasutta: The Brief Exhortation
+### The Theme Verse as a Single Movement
 
-The Buddha's exhortation to the ascetic Bāhiya Dārucīriya is perhaps the most succinct instruction ever given for attaining arahantship. So powerful was it that Bāhiya reached the goal in an instant, right as he heard it. The Buddha said:
+The theme verse of these sermons is not a list of separate attainments. It is a single movement of release, each phrase describing the same event from a different angle. To see this clearly, consider the simile of the cinema hall.
 
-> *Tasmātiha te, Bāhiya, evaṃ sikkhitabbaṃ: diṭṭhe diṭṭhamattaṃ bhavissati, sute sutamattaṃ bhavissati, mute mutamattaṃ bhavissati, viññāte viññātamattaṃ bhavissati.*
->
-> "Well, then, Bāhiya, you had better train yourself thus: In the seen there will be just the seen, in the heard just the heard, in the sensed just the sensed, in the cognized just the cognized."
+### The Extended Cinema Simile
 
-The instruction is radical: do not add anything to experience. When you see, let there be only the seeing. When you hear, only the hearing. Do not superimpose the perceiver, the story, the "I" who sees or hears.
+A man sits in a darkened cinema hall. The projector beams its light; the screen glows with moving images. He is utterly absorbed — laughing, weeping, gripping his seat. This is the world of *sabbasaṅkhāra* — all preparations, all compounded things, all the fabrications of the mind.
 
-### Na Tena, Na Tattha: The Unravelling
+Suddenly, the hall lights come on. What happens? First, the images on the screen are **stilled** — *sabbasaṅkhārasamatho*. The moving pictures freeze into stillness; the drama collapses. Second, the **assets** of the movie-world — the characters, the plot, the scenery — are **relinquished** — *sabbūpadhipaṭinissaggo*. They were never really his, yet he was living through them. Now they are dropped without effort.
 
-> *Yato kho te, Bāhiya, diṭṭhe diṭṭhamattaṃ bhavissati ... tato tvaṃ Bāhiya na tena. Yato tvaṃ Bāhiya na tena, tato tvaṃ Bāhiya na tattha. Yato tvaṃ Bāhiya na tattha, tato tvaṃ Bāhiya nev'idha na huraṃ na ubhayamantarena. Es'ev'anto dukkhassa.*
+Third, his **craving** for what will happen next is **extinguished** — *taṇhakkhayo*. There is no next scene to want. Fourth, **detachment** (*virāgo*) arises — the sticky involvement with the story simply fades. Fifth, **cessation** (*nirodho*) — the entire movie-reality ceases to function as a reality. Sixth, **extinguishment** (*nibbānaṃ*) — he is out of that world entirely, cool, awake, blinking in the ordinary light.
 
-"When to you there is in the seen just the seen, then you are not *by it* (*na tena*). When you are not by it, then you are not *in it* (*na tattha*). When you are not in it, then you are neither here nor there nor in between. This, itself, is the end of suffering."
+Each step of the verse corresponds to a moment in the theatre of experience. The stilling of preparations is the lights coming on. The relinquishment of assets is seeing that the movie was never owned. The destruction of craving is the absence of any next scene. Detachment is the cooling of involvement. Cessation is the end of that world. And Nibbāna — it is simply walking out of the hall.
 
-*Na tena* — "not by it" — means the mind no longer uses the seen as a basis for *maññanā*. The Jarāsutta of the Aṭṭhakavagma confirms: *Dhono na hi tena maññati yadidaṃ diṭṭhasutaṃ mutesu vā* — "The pure one does not imagine by means of it, that is, by what is seen, heard, or sensed." The Arahant does not construct an "I" from the raw material of sensory experience.
+### Devalued Currency
 
-*Na tattha* — "not in it" — means the mind does not dwell in or inhabit the sensory field. It neither stands on the seen as a platform for self-identification nor sinks into it as a place of abiding.
+A man hoards high-denomination banknotes, guarding them day and night with fierce possessiveness. He counts them each morning and each evening. They are his security, his pride, his very identity. One morning he learns they have been devalued overnight — now they are just paper. The currency is worthless.
 
-### Neither Here Nor There: Atammayatā
+In that instant, his craving for them vanishes. His conceit of "I am rich" collapses. His views about his wealth dissolve. He does not need to struggle to let go — the value is gone, and with it the attachment. Upadhi — assets — are like that currency. The worldling guards them, builds his self around them, suffers from the fear of losing them. But when the light of wisdom illuminates their true nature, they are seen for what they are: empty paper. The relinquishment is not an effort but a natural release.
 
-"Nev'idha na huraṃ na ubhayamantarena" — neither here, nor there, nor in between. The mind no longer locates itself anywhere. It does not identify with this world ("here") or the next ("there") or any intermediate state. This is *atammayatā* — non-identification — the state that Bāhiya realized. When identification ceases entirely, suffering has no ground on which to stand.
+### The Dream Transfer
+
+A man receives sudden news of a transfer. He must leave immediately. He runs about frantically, packing his belongings, sweating, panting. Outside a vehicle honks impatiently. He is overwhelmed — the move, the loss, the disruption. Then he wakes up. It was a dream. No vehicle, no transfer, no packing — only panting for nothing.
+
+The sense of urgency, the stress, the frantic grasping — all were real within the dream, yet they had no object. This is the nature of *upadhi*: we prepare, we grasp, we exhaust ourselves defending assets that exist only within the dream of self. The Arahant wakes up. The preparations cease, the assets are relinquished, the craving is extinct — not because anything was destroyed, but because the dream was seen through.
+
+### Birds in the Sky
+
+> *Ākāse'va sakuntānaṃ, padam tesaṃ durannayaṃ.*
+
+Like birds flying through the sky, the Arahant's path leaves no trace. A bird flies and the sky does not record its passage. No mark, no track, no residue. The worldling's path is heavy with footprints — he leaves behind a trail of possessions, identities, achievements, relationships, all marking his passage. But the Arahant moves through existence without leaving a trace. Not because he hides, but because he grips nothing. One cannot track a bird through the sky; one cannot trace an Arahant through the world.
 
 ---
 
 ## Plain-English Notes
 
-### Diṭṭhe Diṭṭhamattaṃ
+### Upadhi (Assets)
 
-"Just the seen in the seen." The practice of allowing sensory experience to be exactly what it is, without the mind adding commentary, ownership, or self-reference. A radical simplicity of perception.
+Any substrate of clinging — possessions, relationships, views, identities, even the body or the sense of self. Upadhi is what the mind grasps as "mine."
 
-### Na Tena / Na Tattha
+### Sabbūpadhipaṭinissaggo
 
-*Na tena* = "not by it" (no appropriation of experience as a basis for self). *Na tattha* = "not in it" (no dwelling or abiding in experience as a location for self). Together they dismantle the self's relationship to experience.
+The relinquishment of all assets — not by throwing them away, but by seeing through them. The cinema viewer does not tear down the screen; he simply sees the lights come on.
 
-### Atammayatā (Non-Identification)
+### The Dream Analogy
 
-The state of not being made of, or identified with, anything. Arahantship itself. The mind no longer takes itself to be any phenomenon or set of phenomena.
+The dream transfer shows that the urgency of worldly existence is real only within the dream. Awakening does not solve the dream's problems; it ends the dream.
+
+### The Bird's Path
+
+The Arahant's path is traceless. The world leaves footprints; wisdom leaves no mark.
 
 ---
 
 ## Meditations
 
-### Just the Seen
+### The Cinema Hall
 
-Choose a visual object. Look at it. Now notice: the mind immediately adds layers — "a cup," "my cup," "a nice cup," "I see a cup." Strip them away. Can there be just the seen? The colour, the shape, the light — without the label, without the story, without the "I" who sees?
+Sit and close your eyes. Imagine you are in a dark cinema hall, absorbed in a movie. Now imagine the lights come on. Feel the sudden stillness. Feel the movie-world drop away. Notice how your craving for the next scene vanishes without effort.
 
-Now try this with a sound. Just the heard. Without identifying the source, without the narrative, without "I hear."
+Now turn this metaphor on your present experience: what "movie" are you absorbed in right now? Can you let the lights come on — just for a moment — and see the preparations, the assets, the craving for what they are?
 
-Try with a touch or a thought.
+### The Dream
 
-**The logic this reveals:** When nothing is added to experience, there is no foothold for suffering. The end of suffering is not a place you reach but an addition you stop making.
+Recall a dream that felt urgent. Now recall waking from it. Rest in the quality of that waking: the relief, the laughter, the freedom. That quality is closer to Nibbāna than any experience within the dream of self.
+
+**The logic this reveals:** Letting go is not an act of will but an act of seeing. When the lights come on, you don't have to try to stop watching the movie. When the currency is devalued, you don't have to try to release it. When you wake up, you don't have to try to stop dreaming.
 
 ---
 
