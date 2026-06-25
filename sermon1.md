@@ -192,6 +192,16 @@ However to most of our scholars the term taṇhakkhaya appeared totally negative
 
 According to the Buddha the cessation of existence is Nibbāna and that means Nibbāna is the realization of the cessation of existence. Existence is said to be an eleven-fold fire. So the entire existence is a raging fire. Lust, hate, delusion — all these are fires. Therefore Nibbāna may be best rendered by the word 'extinction'. When once the fires are extinguished, what more is needed?
 
+But unfortunately Venerable Buddhaghosa was not prepared to appreciate this point of view. In his Visuddhimagga as well as in the commentaries Sāratthappakāsinī and Sammohavinodanī, he gives a long discussion on Nibbāna in the form of an argument with an imaginary heretic. Some of his arguments are not in keeping with either the letter or the spirit of the Dhamma.
+
+First of all he gets the heretic to put forward the idea that the destruction of lust, hate and delusion is Nibbāna. Actually the heretic is simply quoting the Buddha word, for in the Nibbānasutta of the Asaṅkhatasaṃyutta the destruction of lust, hate and delusion is called Nibbāna: *Rāgakkhayo, dosakkhayo, mohakkhayo — idaṃ vuccati nibbānaṃ.* The words rāgakkhaya, dosakkhaya and mohakkhaya together form a synonym of Nibbāna, but the commentator interprets it as three synonyms. Then he argues out with the imaginary heretic that if Nibbāna is the extinguishing of lust it is something common even to the animals, for they also extinguish their fires of lust through enjoyment of the corresponding objects of sense. This argument ignores the deeper sense of the word extinction, as it is found in the Dhamma.
+
+In the Māgaṇḍiyasutta of the Majjhima Nikāya the Buddha gives the simile of a man with a skin disease sitting beside a pit of hot embers to explain the position of lustful beings in the world. That man is simply trying to assuage his pains by the heat of the fire. It is an attempt to warm up, not to cool down. Similarly what the lustful beings in the world are doing in the face of the fires of lust is a warming up. It can in no way be compared to the extinction and the cooling down of the Arahants.
+
+As the phrase nibbutiṃ bhuñjamānā implies, that extinction is a blissful experience for the Arahants. It leaves a permanent effect on the Arahant, so much so that upon reflection he sees that his influxes are extinct, just as a man with his hands and feet cut off, knows upon reflection that his limbs are gone.
+
+In fact I came forward to give these sermons for three reasons: Firstly because the venerable Great Preceptor invited me to do so. Secondly in the hope that it will be of some benefit to my co-dwellers in the Dhamma. And thirdly because I myself felt rather concerned about the inadequacy of the existing interpretations.
+
 ---
 
 Yet another important aspect of the problem is the relation of Nibbāna to the holy life or brahmacariya. It is said that when the holy life is lived out to the full, it culminates in Nibbāna.
@@ -219,6 +229,8 @@ However, this might need more explanation. Now as far as craving is concerned, i
 But what is the position if one makes the destruction of craving itself one's object? Now craving because of its inclining nature is always bent forward, so much so that we get an infinite progression. This is for that, and that is for the other. As the phrase taṇhā ponobhavikā implies, craving brings up existence again and again.
 
 But this is not the case when one makes the destruction of craving one's aim. When that aim is attained, there is nothing more to be done. So this brings us to the conclusion that the term taṇhakkhayo, destruction of craving, is a full-fledged synonym of Nibbāna.
+
+Well, this much is enough for today. Time permitting and life permitting, I hope to continue with these sermons. I suppose the most Venerable Great Preceptor made this invitation with the idea of seeing one of his children at play. For good or for bad, I have taken up the invitation. Let the future of the Sāsana be the final judge of its merits.
 
 ---
 
