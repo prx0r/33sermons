@@ -11,7 +11,12 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "@remotion/cli": "^4.0.483",
+    "@remotion/google-fonts": "^4.0.483",
+    "@remotion/player": "^4.0.483",
+    "@remotion/renderer": "^4.0.483",
     "express": "^5.2.1",
-    "marked": "^18.0.5"
+    "marked": "^18.0.5",
+    "remotion": "^4.0.483"
   }
 }
